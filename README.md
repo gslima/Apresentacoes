@@ -1,11 +1,7 @@
 # Apresentações
 Por [Guilherme Lima](https://github.com/gslima)
 
-Apresentações ministradas por mim. Veja no Udemy, caso queira dois cursos com certificado, ou então veja no meu canal no youtube.
-
-- Cursos no [Youtube](https://www.youtube.com/channel/UCsIsHxPVrozeaedzd8BgfUQ)
-- Certificado em evolução das competências empresariais, na [Udemy](https://www.udemy.com/course/evolucao-das-competencias-empresariais/)
-- Certificado em evolução das competências pessoais, na [Udemy](https://www.udemy.com/course/evolucao-das-competencias-pessoais/)
+Apresentações ministradas por mim.
 
 # Temas
 
